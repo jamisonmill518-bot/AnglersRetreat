@@ -1,0 +1,64 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:fishing_rod": 1,
+      "minecraft:slime_ball": 80,
+      "minecraft:emerald": 39
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 2,
+      "minecraft:dandelion": 1,
+      "minecraft:oak_log": 6,
+      "minecraft:sweet_berry_bush": 1,
+      "minecraft:bamboo": 4
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 29467,
+      "minecraft:walk_one_cm": 23272,
+      "minecraft:leave_game": 3,
+      "minecraft:walk_under_water_one_cm": 1303,
+      "minecraft:play_time": 29467,
+      "minecraft:jump": 145,
+      "minecraft:time_since_death": 29467,
+      "minecraft:drop": 120,
+      "minecraft:sprint_one_cm": 24655,
+      "minecraft:open_chest": 6,
+      "minecraft:inspect_dispenser": 7,
+      "minecraft:fall_one_cm": 850,
+      "minecraft:total_world_time": 29467,
+      "minecraft:swim_one_cm": 1558,
+      "minecraft:fly_one_cm": 82827,
+      "minecraft:walk_on_water_one_cm": 5736,
+      "minecraft:crouch_one_cm": 134,
+      "minecraft:sneak_time": 531,
+      "minecraft:fish_caught": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 8,
+      "minecraft:stone_sword": 5,
+      "minecraft:slime_block": 19,
+      "minecraft:sticky_piston": 6,
+      "minecraft:redstone_block": 2,
+      "minecraft:observer": 11,
+      "minecraft:dispenser": 7,
+      "minecraft:fishing_rod": 9
+    },
+    "minecraft:picked_up": {
+      "minecraft:salmon": 1,
+      "minecraft:bamboo": 18,
+      "minecraft:bucket": 4,
+      "minecraft:fishing_rod": 1,
+      "minecraft:sugar_cane": 4,
+      "minecraft:oak_sapling": 9,
+      "minecraft:bread": 4,
+      "minecraft:oak_log": 6,
+      "minecraft:sand": 4,
+      "minecraft:dandelion": 1,
+      "minecraft:slime_ball": 80,
+      "minecraft:tnt": 36,
+      "minecraft:emerald": 39,
+      "minecraft:lily_pad": 4
+    }
+  },
+  "DataVersion": 4671
+}

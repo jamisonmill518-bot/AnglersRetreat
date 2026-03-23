@@ -1,0 +1,216 @@
+[23:04:44] [ServerMain/INFO]: [bootstrap] Running Java 22 (Java HotSpot(TM) 64-Bit Server VM 22.0.1+8-16; Oracle Corporation null) on Windows 10 10.0 (amd64)
+[23:04:44] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.11-69-main@94d0c97 (2025-12-30T20:33:30Z) for Minecraft 1.21.11
+[23:04:45] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:04:45] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins\custom_npcs-1.0.0.jar'...
+[23:04:45] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins\PondsPlugin.jar'...
+[23:04:46] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins\custom_npcs-1.0.0.jar' in 403ms.
+[23:04:46] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins\PondsPlugin.jar' in 399ms.
+[23:04:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 8 plugins
+[23:04:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (8):
+ - CustomNPCs (1.0.0), Essentials (2.22.0-dev+74-d7452bf), EssentialsAntiBuild (2.22.0-dev+74-d7452bf), EssentialsChat (2.22.0-dev+74-d7452bf), EssentialsGeoIP (2.22.0-dev+74-d7452bf), EssentialsProtect (2.22.0-dev+74-d7452bf), EssentialsSpawn (2.22.0-dev+74-d7452bf), Ponds (1.0.0)
+[23:04:51] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[23:04:52] [ServerMain/INFO]: Loaded 1470 recipes
+[23:04:52] [ServerMain/INFO]: Loaded 1584 advancements
+[23:04:52] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[23:04:53] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 304.0ms
+[23:04:53] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[23:04:53] [Server thread/INFO]: Loading properties
+[23:04:53] [Server thread/INFO]: This server is running Paper version 1.21.11-69-main@94d0c97 (2025-12-30T20:33:30Z) (Implementing API version 1.21.11-R0.1-SNAPSHOT)
+[23:04:53] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:04:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:04:53] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:04:54] [Server thread/INFO]: [MoonriseCommon] Paper is using 4 worker threads, 1 I/O threads
+[23:04:54] [Server thread/INFO]: Default game type: SURVIVAL
+[23:04:54] [Server thread/INFO]: Generating keypair
+[23:04:54] [Server thread/INFO]: Starting Minecraft server on 25.57.2.7:25565
+[23:04:54] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[23:04:54] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[23:04:54] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0-dev+74-d7452bf
+[23:04:54] [Server thread/INFO]: [Ponds] Loading server plugin Ponds v1.0.0
+[23:04:54] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.22.0-dev+74-d7452bf
+[23:04:54] [Server thread/INFO]: [EssentialsProtect] Loading server plugin EssentialsProtect v2.22.0-dev+74-d7452bf
+[23:04:54] [Server thread/INFO]: [EssentialsGeoIP] Loading server plugin EssentialsGeoIP v2.22.0-dev+74-d7452bf
+[23:04:54] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.22.0-dev+74-d7452bf
+[23:04:54] [Server thread/INFO]: [EssentialsAntiBuild] Loading server plugin EssentialsAntiBuild v2.22.0-dev+74-d7452bf
+[23:04:54] [Server thread/INFO]: [CustomNPCs] Loading server plugin CustomNPCs v1.0.0
+[23:04:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:04:54] [Server thread/INFO]: Preparing level "world"
+[23:04:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:overworld'...
+[23:04:55] [Server thread/INFO]: Prepared spawn area in 2 ms
+[23:04:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_nether'...
+[23:04:55] [Server thread/INFO]: Prepared spawn area in 2 ms
+[23:04:55] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:the_end'...
+[23:04:55] [Server thread/INFO]: Prepared spawn area in 2 ms
+[23:04:55] [Server thread/INFO]: Done preparing level "world" (0.595s)
+[23:04:55] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+74-d7452bf
+[23:04:56] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[23:04:56] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[23:04:56] [Server thread/INFO]: [Essentials] Loaded 46309 items from items.json.
+[23:04:56] [Server thread/INFO]: [Essentials] Using locale en_US
+[23:04:56] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[23:04:56] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[23:04:56] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[23:04:56] [Server thread/INFO]: [Ponds] Enabling Ponds v1.0.0
+[23:04:56] [Server thread/INFO]: [Ponds] Creating void world: ponds_world
+[23:04:56] [Server thread/INFO]: Loading 0 persistent chunks for world 'minecraft:ponds_world'...
+[23:04:56] [Server thread/INFO]: Prepared spawn area in 0 ms
+[23:04:56] [Server thread/INFO]: [Ponds] Pond world loaded: ponds_world
+[23:04:56] [Server thread/INFO]: [Ponds] Loaded 2 pond island(s).
+[23:04:56] [Server thread/INFO]: [Ponds] PondsPlugin enabled! Ready to make some waves. 🌊
+[23:04:56] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.22.0-dev+74-d7452bf
+[23:04:56] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[23:04:56] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.22.0-dev+74-d7452bf
+[23:04:56] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[23:04:56] [Server thread/INFO]: [EssentialsProtect] Starting Metrics. Opt-out using the global bStats config.
+[23:04:56] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.22.0-dev+74-d7452bf
+[23:04:56] [Server thread/ERROR]: [EssentialsGeoIP] No license key found! Please visit https://essentialsx.net/geoip for first time setup instructions.
+[23:04:56] [Server thread/ERROR]: [EssentialsGeoIP] Failed to read GeoIP database!
+java.io.FileNotFoundException: plugins\EssentialsGeoIP\GeoIP2-Country.mmdb (The system cannot find the file specified)
+	at java.base/java.io.RandomAccessFile.open0(Native Method) ~[?:?]
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:354) ~[?:?]
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:271) ~[?:?]
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:221) ~[?:?]
+	at EssentialsXGeoIP-2.22.0-dev+74-d7452bf.jar//com.earth2me.essentials.geoip.libs.maxmind.db.BufferHolder.<init>(BufferHolder.java:19) ~[?:?]
+	at EssentialsXGeoIP-2.22.0-dev+74-d7452bf.jar//com.earth2me.essentials.geoip.libs.maxmind.db.Reader.<init>(Reader.java:116) ~[?:?]
+	at EssentialsXGeoIP-2.22.0-dev+74-d7452bf.jar//com.earth2me.essentials.geoip.libs.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:66) ~[?:?]
+	at EssentialsXGeoIP-2.22.0-dev+74-d7452bf.jar//com.earth2me.essentials.geoip.libs.maxmind.geoip2.DatabaseReader.<init>(DatabaseReader.java:54) ~[?:?]
+	at EssentialsXGeoIP-2.22.0-dev+74-d7452bf.jar//com.earth2me.essentials.geoip.libs.maxmind.geoip2.DatabaseReader$Builder.build(DatabaseReader.java:160) ~[?:?]
+	at EssentialsXGeoIP-2.22.0-dev+74-d7452bf.jar//com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:175) ~[?:?]
+	at EssentialsXGeoIP-2.22.0-dev+74-d7452bf.jar//com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:51) ~[?:?]
+	at EssentialsXGeoIP-2.22.0-dev+74-d7452bf.jar//com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:33) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202) ~[paper-1.21.11.jar:1.21.11-69-94d0c97]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[paper-1.21.11.jar:1.21.11-69-94d0c97]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520) ~[paper-api-1.21.11-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:639) ~[paper-1.21.11.jar:1.21.11-69-94d0c97]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:596) ~[paper-1.21.11.jar:1.21.11-69-94d0c97]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:636) ~[paper-1.21.11.jar:1.21.11-69-94d0c97]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:365) ~[paper-1.21.11.jar:1.21.11-69-94d0c97]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1260) ~[paper-1.21.11.jar:1.21.11-69-94d0c97]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:388) ~[paper-1.21.11.jar:1.21.11-69-94d0c97]
+	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
+[23:04:56] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[23:04:56] [Server thread/INFO]: [EssentialsGeoIP] Starting Metrics. Opt-out using the global bStats config.
+[23:04:56] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.22.0-dev+74-d7452bf
+[23:04:56] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[23:04:56] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.22.0-dev+74-d7452bf
+[23:04:56] [Server thread/INFO]: [EssentialsAntiBuild] Starting Metrics. Opt-out using the global bStats config.
+[23:04:56] [Server thread/INFO]: [CustomNPCs] Enabling CustomNPCs v1.0.0
+[23:04:56] [Server thread/INFO]: [CustomNPCs] CustomNPCs plugin enabled.
+[23:04:56] [Server thread/INFO]: [spark] Starting background profiler...
+[23:04:56] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows10/amd64), so the built-in Java engine will be used instead.
+[23:04:56] [Server thread/INFO]: Running delayed init tasks
+[23:04:56] [Server thread/INFO]: Done (12.839s)! For help, type "help"
+[23:04:56] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[23:05:00] [User Authenticator #0/INFO]: UUID of player ConcretexGod is a525bfa1-b83e-484f-97b3-d3bd4437f2cd
+[23:05:01] [Server thread/INFO]: ConcretexGod joined the game
+[23:05:01] [Server thread/INFO]: ConcretexGod[/25.57.2.7:59697] logged in with entity id 2 at ([ponds_world]503.0498865580349, 65.0, 8.792947422766947)
+[23:05:06] [Server thread/INFO]: ConcretexGod issued server command: /plugins
+[23:05:07] [User Authenticator #0/INFO]: UUID of player SdotMula is 98361145-f9d1-4b16-b079-d34eff5bfcfe
+[23:05:08] [Server thread/INFO]: SdotMula joined the game
+[23:05:08] [Server thread/INFO]: SdotMula[/25.57.2.20:60599] logged in with entity id 3 at ([ponds_world]508.2908177088795, 65.0, -1.6096728638367523)
+[23:05:16] [Server thread/INFO]: ConcretexGod issued server command: /plugins help\
+[23:05:18] [Server thread/INFO]: ConcretexGod issued server command: /plugins help
+[23:05:24] [Server thread/INFO]: SdotMula issued server command: /spawnnpc
+[23:05:29] [Server thread/INFO]: ConcretexGod issued server command: /spawnnpc fisherman
+[23:06:34] [Server thread/INFO]: [CustomNPCs] SdotMula cast their fishing rod.
+[23:06:42] [Server thread/INFO]: SdotMula has made the advancement [Fishy Business]
+[23:06:42] [Server thread/INFO]: [CustomNPCs] SdotMula caught something!
+[23:06:58] [Server thread/INFO]: [CustomNPCs] SdotMula cast their fishing rod.
+[23:06:58] [Server thread/INFO]: [CustomNPCs] SdotMula reeled in.
+[23:06:59] [Server thread/INFO]: [CustomNPCs] SdotMula cast their fishing rod.
+[23:07:16] [Server thread/INFO]: [CustomNPCs] SdotMula cast their fishing rod.
+[23:07:19] [Server thread/INFO]: [CustomNPCs] SdotMula reeled in.
+[23:07:35] [Server thread/INFO]: [CustomNPCs] SdotMula cast their fishing rod.
+[23:07:37] [Server thread/INFO]: [CustomNPCs] SdotMula reeled in.
+[23:08:10] [Server thread/INFO]: [CustomNPCs] SdotMula cast their fishing rod.
+[23:08:24] [Server thread/INFO]: [CustomNPCs] SdotMula reeled in.
+[23:08:25] [Server thread/INFO]: [CustomNPCs] SdotMula cast their fishing rod.
+[23:08:26] [Server thread/INFO]: [CustomNPCs] SdotMula reeled in.
+[23:08:26] [Server thread/INFO]: [CustomNPCs] SdotMula cast their fishing rod.
+[23:09:33] [Server thread/INFO]: ConcretexGod issued server command: /money
+[23:09:36] [Server thread/INFO]: [CustomNPCs] SdotMula cast their fishing rod.
+[23:09:36] [Server thread/INFO]: [CustomNPCs] SdotMula reeled in.
+[23:09:39] [Server thread/INFO]: ConcretexGod issued server command: /bal
+[23:13:00] [Async Chat Thread - #1/INFO]: <ConcretexGod> GREIFFFFERRRRRRR
+[23:13:03] [Async Chat Thread - #1/INFO]: <ConcretexGod> BAN HIIIIMMMMM
+[23:13:07] [Async Chat Thread - #1/INFO]: <ConcretexGod> MOOOOOM
+[23:13:15] [Server thread/INFO]: ConcretexGod lost connection: Disconnected
+[23:13:15] [Server thread/INFO]: ConcretexGod left the game
+[23:13:19] [Server thread/INFO]: SdotMula lost connection: Disconnected
+[23:13:19] [Server thread/INFO]: SdotMula left the game
+[23:13:22] [Server thread/INFO]: Stopping the server
+[23:13:22] [Server thread/INFO]: Stopping server
+[23:13:22] [Server thread/INFO]: [CustomNPCs] Disabling CustomNPCs v1.0.0
+[23:13:22] [Server thread/INFO]: [CustomNPCs] CustomNPCs plugin disabled.
+[23:13:22] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.22.0-dev+74-d7452bf
+[23:13:22] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.22.0-dev+74-d7452bf
+[23:13:22] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.22.0-dev+74-d7452bf
+[23:13:22] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.22.0-dev+74-d7452bf
+[23:13:22] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.22.0-dev+74-d7452bf
+[23:13:22] [Server thread/INFO]: [Ponds] Disabling Ponds v1.0.0
+[23:13:22] [Server thread/INFO]: [Ponds] PondsPlugin disabled. Pond data saved.
+[23:13:22] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+74-d7452bf
+[23:13:22] [Server thread/INFO]: Saving players
+[23:13:22] [Server thread/INFO]: Saving worlds
+[23:13:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world' in 0.00s
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[23:13:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[23:13:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[23:13:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[ponds_world]'/minecraft:ponds_world
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'ponds_world'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'ponds_world'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'ponds_world'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Saved 628 block chunks, 29 entity chunks, 0 poi chunks in world 'ponds_world' in 0.29s
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'ponds_world'
+[23:13:22] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'ponds_world'
+[23:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (ponds_world): All chunks are saved
+[23:13:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:13:22] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[23:13:22] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[23:13:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:13:22] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...

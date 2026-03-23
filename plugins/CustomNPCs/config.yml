@@ -1,0 +1,26 @@
+# =============================================
+#   CustomNPCs Configuration
+# =============================================
+
+# Saved location of Fisherman Joe — populated automatically on first /spawnnpc
+npc:
+  uuid: e5c1d0ed-35b9-4750-a685-82b2d4bc70d6
+  world: ponds_world
+  x: 510.2883977028135
+  y: 65.0
+  z: 3.4017639893641696
+  yaw: 150.35475158691406
+  pitch: 21.80577850341797
+
+# Shop prices (in emeralds)
+shop:
+  fishing-rod-cost: 5
+  bait-cost: 2
+  bait-amount: 8 # how many Slime Balls the player receives per purchase
+  
+  # Emeralds paid per fish sold
+  fish-prices:
+    COD: 1
+    SALMON: 2
+    TROPICAL_FISH: 3
+    PUFFERFISH: 1
