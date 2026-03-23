@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Minecraft Paper Server",
+      "runtimeExecutable": "java",
+      "runtimeArgs": ["-Xms4G", "-Xmx4G", "-jar", "paper-1.21.11-69.jar", "--nogui"],
+      "port": 25565
+    }
+  ]
+}

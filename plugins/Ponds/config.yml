@@ -15,9 +15,9 @@ island-y: 64
 # Starter chest contents (item material names)
 # See: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
 starter-items:
-  - OAK_SAPLING
+  - FISHING_ROD
+  - BAMBOO
   - SUGAR_CANE
   - LILY_PAD
   - SAND
-  - BUCKET
-  - BREAD
+  - COOKED_COD
